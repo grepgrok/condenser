@@ -70,8 +70,10 @@ How to build an .exe file
   * using pip:
     - ensure you use Python version from 3.10 to 3.12
     - run pip install -r ./requirements.txt
+  * ensure you have `ffmpeg` and `ffprobe` (available at https://ffmpeg.org/)
 * Run build script:
   ./make_exe.bat
+  > For Linux/Mac, use `./make_exe.bat`
 * You can find the output in the dist/condenser directory.
 
 
