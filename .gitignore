@@ -5,3 +5,5 @@ build/
 dist/
 condenser.spec
 .idea/
+.venv/
+.DS_Store

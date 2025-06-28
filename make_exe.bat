@@ -10,3 +10,4 @@ del dist\condenser\_internal\unicodedata.pyd
 del dist\condenser\_internal\libcrypto-3.dll
 del dist\condenser\_internal\ucrtbase.dll
 del dist\condenser\_internal\api-ms-win-*
+del dist\condenser\_internal\api-ms-win-*
